@@ -1,2 +1,3 @@
-# react-practicas
-Repositorio de practicas de desarrollo web realizadas con React
+# react-gif-expert-app
+
+Aplicación que muestra gifs traidos con una API
